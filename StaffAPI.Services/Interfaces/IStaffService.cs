@@ -13,7 +13,7 @@ namespace StaffAPI.Services.Interfaces
 
         Task<IEnumerable<Staff>> GetAllStaffs();
 
-        Task<Staff> GetStaffById(int productId);
+        Task<Staff> GetStaffById(int staffId);
 
         Task<bool> UpdateStaff(Staff staff);
 

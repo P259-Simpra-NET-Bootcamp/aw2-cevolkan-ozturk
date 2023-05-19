@@ -96,10 +96,10 @@ namespace StaffAPI.Controllers
 
             if (staff != null)
             {
-                var isProductUpdated = await _staffService.UpdateStaff(staff);
-                if (isProductUpdated)
+                var isStaffUpdated = await _staffService.UpdateStaff(staff);
+                if (isStaffUpdated)
                 {
-                    return Ok(isProductUpdated);
+                    return Ok(isStaffUpdated);
                 }
                 return BadRequest();
             }
