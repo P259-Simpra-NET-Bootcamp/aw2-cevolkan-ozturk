@@ -5,6 +5,7 @@
 Bu uygulamayı Simpra .Net Developer Bootcampi 2. ödev için yaptım.
 Database olarak docker üzerinde çalışan bir posgre database kullandım.
 Migration dosyası StaffAPI.Infrastructure projesinde migration klasöründedir.
+Validasyon işlemleri için FluentValidation kütüphanesini kullandım.
 
 Docker PostgreSQL :
 ![image](https://github.com/P259-Simpra-NET-Bootcamp/aw2-cevolkan-ozturk/assets/98951889/13791b93-7f6c-409e-a757-dd98247a3c48)
@@ -16,3 +17,7 @@ Dbeaver :
 
 Swagger :
 ![image](https://github.com/P259-Simpra-NET-Bootcamp/aw2-cevolkan-ozturk/assets/98951889/e6fc622c-e09f-47e1-90f4-8a4ca279cbfc)
+
+FluentValidation:
+![image](https://github.com/P259-Simpra-NET-Bootcamp/aw2-cevolkan-ozturk/assets/98951889/847884c8-a837-47a2-bc41-c29aa58992f7)
+
